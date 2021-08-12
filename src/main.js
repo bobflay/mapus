@@ -1,6 +1,11 @@
 $(document).ready(function(){
   // Coordinates to center the map. Could let the user choose when creating a room & persist when sharing a link (via GET params)
   const lat = 51.52;
+
+
+
+
+  
   const lon = -0.09;
 
   // Initialize the Leaflet map
